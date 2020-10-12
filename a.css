@@ -259,7 +259,7 @@ body:before {
 	z-index: 5001;
 }
 .titleBar-AC4pGV:after {
-	content: "";
+	content: "e";
 	pointer-events: none;
 	position: absolute;
 	z-index: -1;
